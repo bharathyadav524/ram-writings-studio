@@ -1,0 +1,13 @@
+PASS JavaScript syntax
+PASS DOM reference audit
+PASS 52 px Small Reference default
+PASS 72% block width
+PASS 55% vertical position
+PASS 1.55 line height
+PASS 35% maximum block height
+PASS 1080x1920 12 Mbps export path
+PASS 3-second and 15-second render paths
+PASS six valid 15-second WAV files
+PASS HTTP tests for HTML/CSS/JS/music
+PASS ZIP integrity after packaging
+Browser graphical acceptance is still required in current Edge/Chrome because no graphical browser runtime is installed in this container.
